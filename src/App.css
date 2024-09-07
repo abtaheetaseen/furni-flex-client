@@ -1,0 +1,7 @@
+.banner-bg{
+    /* background: linear-gradient(180deg, rgba(19, 19, 24, 0.8) 0%, rgba(19, 19, 24, 0.4) 100%), url(../src/assets/images/hero.jpg); */
+    background-image: url(../src/assets/images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
