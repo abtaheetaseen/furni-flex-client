@@ -82,7 +82,7 @@ const Navbar = () => {
         {
           user && (
             <>
-              <div className='dropdown dropdown-end z-50'>
+              <div className='dropdown dropdown-end z-50 border-2 border-black rounded-full'>
                 <div
                   tabIndex={0}
                   role='button'
